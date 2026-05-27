@@ -1,0 +1,12 @@
+
+pandas
+numpy
+matplotlib
+scikit-learn
+pytorch-lightning
+torch
+pytorch-forecasting
+fastapi
+uvicorn
+shap
+joblib
